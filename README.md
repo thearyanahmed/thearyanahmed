@@ -1,6 +1,6 @@
 ### Salam 👋
 I'm Aryan Ahmed Anik, a self-taught programmer, passionate about coding in general,open source projects.
-I love PHP, Go, Docker, Tailwind and Vue to start with, among many others, also in the list are machines, travelling and nature. I've been working as a software engineer @jouleslabs since 2018.
+I like PHP, Go, Docker, Tailwind and Vue to start with, among many others, also in the list are machines, travelling and nature. I've been working as a software engineer @jouleslabs since 2018.
 
 - Working on a project with distribute system design.
 - Currently diggint into GCP and devops in general.
